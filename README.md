@@ -1,1 +1,1 @@
-# CMSC21-Lecture1-Reading-Assignment-
+# CMSC21-Lecture1-Reading-Assignment
